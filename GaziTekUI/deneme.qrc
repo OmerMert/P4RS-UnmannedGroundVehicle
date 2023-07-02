@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>RGB_deneme.png</file>
+  </qresource>
+  <qresource prefix="tai">
+    <file>logo-3.png</file>
+  </qresource>
+  <qresource prefix="new">
+    <file>Gazi_Üniversitesi_logo.png</file>
+  </qresource>
+</RCC>

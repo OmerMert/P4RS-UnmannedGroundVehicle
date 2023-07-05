@@ -38,5 +38,6 @@
 
 
 # Components List
+![Ekran görüntüsü 2023-07-04 003651](https://github.com/OmerMert/P4RS-UnmannedGroundVehicle/assets/47865653/3ca556e5-f038-4db3-8254-c88478212b6b)
 
 

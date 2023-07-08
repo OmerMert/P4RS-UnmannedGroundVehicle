@@ -30,10 +30,12 @@ The mechanical design of the vehicle is done using Fusion360 software and it is 
 
 # User Interface
 To be able to control the vehicle from a computer, a user interface is designed. The user interface is designed by using “Python” programming language and some of its libraries such as “PyQt5” and “matplotlib”.
+
 ![image](https://github.com/OmerMert/P4RS-UnmannedGroundVehicle/assets/47865653/5428c087-a4ab-4ca6-b357-b8917fb597c9)
 
 # Object Detection
 In order to detect the foreign objects on a runway, custom data set is created and trained using SSD Mobilenet model. The model is used by [JetsonInferance](https://github.com/dusty-nv/jetson-inference) detectNet library on python.
+
 ![image](https://github.com/OmerMert/P4RS-UnmannedGroundVehicle/assets/47865653/21439d86-e420-46b5-bf47-959cee8009ac)
 
 # Circuit Schematic
